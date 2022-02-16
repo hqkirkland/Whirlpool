@@ -1,0 +1,11 @@
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\bin\Debug\netcoreapp2.0\WhirlpoolCore.deps.json
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\bin\Debug\netcoreapp2.0\WhirlpoolCore.runtimeconfig.json
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\bin\Debug\netcoreapp2.0\WhirlpoolCore.runtimeconfig.dev.json
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\bin\Debug\netcoreapp2.0\WhirlpoolCore.dll
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\bin\Debug\netcoreapp2.0\WhirlpoolCore.pdb
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.AssemblyInfoInputs.cache
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.AssemblyInfo.cs
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.dll
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.pdb
+C:\Users\Administrator.TERMINAL\OneDrive\Business\Nodebay\Whirlpool II\WhirlpoolCore\obj\Debug\netcoreapp2.0\WhirlpoolCore.csprojAssemblyReference.cache
